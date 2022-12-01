@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/j2t6xYzbmXLYIqseXq/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/kumar-mayank-280373208/" target="_blank">
+  <a href="https://www.linkedin.com/in/kumar-mayank-280373208/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
   </a>
 </div>
