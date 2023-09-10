@@ -37,3 +37,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMayank02&layout=compact&theme=vision-friendly-dark"/></a>
   </p
 </div>
+<div>
+  [![An image of @kmayank02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kmayank02)](https://holopin.io/@kmayank02)
+</div>
